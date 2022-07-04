@@ -51,7 +51,8 @@
     grid-row: 2/3;
     margin-left: -70px;
     margin-top: -50px; 
-  } 
+  }
+  /*this is weird that its not working*/
   .yellow2 {
     width: 100px; 
     height: 100px; 
